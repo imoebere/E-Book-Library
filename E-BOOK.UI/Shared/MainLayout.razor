@@ -1,0 +1,19 @@
+﻿@inherits LayoutComponentBase
+@attribute [Authorize(Roles = "ADMIN")]
+<PageTitle>E-BOOK.UI</PageTitle>
+
+<div class="page">
+    <div class="sidebar">
+        <AuthorizeView>
+        <Authorized>
+                <NavMenu />
+        </Authorized>
+        </AuthorizeView>
+    </div>
+
+    <main>
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>

@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_BOOK.UI
+build_property.RootNamespace = E_BOOK.UI
+build_property.ProjectDir = C:\Users\Decagon\Desktop\Group b\final-group-task-grp-b-1-1\E-BOOK.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Decagon\Desktop\Group b\final-group-task-grp-b-1-1\E-BOOK.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/AddBookReview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQm9va1Jldmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/CofirmEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29maXJtRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/CreateBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlQm9vay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/EditBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEJvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFVzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/ForgotPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Reset.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/SuccessRegistration.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VjY2Vzc1JlZ2lzdHJhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/UploadBookImg.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkQm9va0ltZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/UploadPhoto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkUGhvdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/UserRole.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJvbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/AuthBtn.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEF1dGhCdG4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/BookCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJvb2tDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/BookInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJvb2tJbmZvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/ConfirmDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1EZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/LandingLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExhbmRpbmdMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/SimpleBtn.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpbXBsZUJ0bi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/UserCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/UserOtherDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJPdGhlckRldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/UserReview.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJSZXZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-5ivx64l8wf
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/DashboardBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkQm9vay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-a8oyz3gche
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y8gnz931bi
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/SingleBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ2xlQm9vay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6ijoeokxk5
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/ViewBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0Jvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-43it5ap2lx
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/ViewUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y1c2uf1tge
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/CustomBtn.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbUJ0bi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-08l1jhrqsd
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pokeh6kjmj
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p97t2sxjqt
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Decagon/Desktop/Group b/final-group-task-grp-b-1-1/E-BOOK.UI/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,20 @@
+﻿<AuthorizeView>
+    <Authorized>
+@if (displayFindUserDTO == null){
+    <div class="spinner"></div>
+}else{
+    <div class="shadow-sm h-100">
+        <div class="d-flex flex-column gap-4 align-items-center">
+            <UserCard imgUrl="@displayFindUserDTO.ProfilePicture"
+                  userName=@(displayFindUserDTO.FirstName.ToUpper() +" " + displayFindUserDTO.LastName.ToLower()) />
+            <UserOtherDetails Email=@displayFindUserDTO.Email
+                          PhoneNumber=@displayFindUserDTO.PhoneNumber />
+            <CustomBtn btnType="button" cssClass="cusBtn cusBtn5 text-white" path="/admin-dashboard" text="Manage User" />
+            <CustomBtn btnType="button" cssClass="cusBtn cusBtn3 text-white" path="/admin-dashboard/book" text="Manage Book" />
+                    <CustomBtn btnType="button" cssClass="cusBtn cusBtn2 text-white" path=@($"/admin-dashboard/user/edit_user/{displayFindUserDTO.Email}") text="Update User Info" />
+        </div>
+    </div>
+
+}
+    </Authorized>
+</AuthorizeView>
